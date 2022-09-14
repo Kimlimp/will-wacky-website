@@ -198,8 +198,8 @@ body main footer *:first-child + html .wrapper-cta {
 --------------------------------------------------------------*/
 
 ::selection {
-    color: rgb(211, 55, 55);
-    background: black;
+    color: rgb(17, 65, 19);
+    background: rgb(125, 212, 90);
 }
 
 body {
@@ -232,7 +232,7 @@ body main .cta {
 body a {
     color: inherit;
     text-decoration: none;
-    color: #AA9FB7;
+    color: #bb8bdb;
 }
 
 body a span:not(emoji) {
@@ -241,7 +241,7 @@ body a span:not(emoji) {
 }
 
 body a.cta {
-    color: #AA9FB7;
+    color: #cc80ff;
 }
 
 body p,
@@ -257,7 +257,7 @@ body h6 {
 body h1 {
     font-size: 1.4em;
     margin-bottom: 1em;
-    color: #a58ec2;
+    color: #a371e0;
 }
 
 body p {
@@ -349,7 +349,7 @@ body main {
 		border-radius: 15px;
 		box-shadow: 0 10px 45px rgba(0, 0, 0, .1);
 		*/
-    color: #7A7283;
+    color: #645c6d;
     position: absolute;
     top: 50%;
     left: 50%;
